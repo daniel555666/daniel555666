@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Daniel Zaken 
+
+![](https://komarev.com/ghpvc/?username=daniel555666&label=PROFILE+VIEWS)
 <!--
 **daniel555666/daniel555666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
