@@ -1,5 +1,4 @@
-### Hi there 👋 
-### I'm Daniel
+### Hi there 👋  I'm Daniel
 Computer Science & Mathematics student at Ariel University
 
 ![](https://komarev.com/ghpvc/?username=daniel555666&label=PROFILE+VIEWS)
