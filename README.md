@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Daniel
 Computer Science & Mathematics student at Ariel University
 
-since 6.22   ![](https://komarev.com/ghpvc/?username=daniel555666&label=PROFILE+VIEWS)
+since 6.22:    ![](https://komarev.com/ghpvc/?username=daniel555666&label=PROFILE+VIEWS)
 <!-- 
 **daniel555666/daniel555666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
