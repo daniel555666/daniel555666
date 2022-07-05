@@ -3,7 +3,7 @@ Computer Science & Mathematics student at Ariel University
 
 ![](https://komarev.com/ghpvc/?username=daniel555666&label=PROFILE+VIEWS)
 <!--
-**daniel555666/daniel555666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   since 6.22   **daniel555666/daniel555666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
